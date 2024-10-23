@@ -1,0 +1,5 @@
+   openpyxl
+   Flask
+   Werkzeug
+   google-generativeai
+   Gunicorn
